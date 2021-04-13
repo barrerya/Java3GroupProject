@@ -18,5 +18,14 @@
         <form action="TODO" method="GET">
             <input type="submit" value="Add New Hall">
         </form>
+        <form action="HallRegistrationServlet" method="GET">
+            <input type="submit" value="Book Hall">
+        </form>
+        <form action="RegistrationServlet" method="GET">
+            <input type="submit" value="Register Client">
+        </form>
+        <form action="AdminServlet" method="GET">
+            <input type="submit" value="Hall Admin">
+        </form>
     </body>
 </html>
